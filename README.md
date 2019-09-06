@@ -1,6 +1,6 @@
 # hello-world
-familiarizing git hub
-second day of devops
+
+second day of github
 changes to learn
 changes in master after creating second
 same change check
